@@ -17,4 +17,5 @@
 
 
 
-### 🧠 Week Study (2021-하반기)
+## 🧠 Week Study (2021-하반기)
+### Contributor
