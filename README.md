@@ -35,6 +35,77 @@
 - - 각 주별 자료 발표: 지정 일정
 
 ## 🧠 Week Study (2021-하반기)
+<table style="undefined;table-layout: fixed; width: 100%">
+<colgroup>
+<col style="width: 10%">
+<col style="width: 20%">
+<col style="width: 70%">
+</colgroup>
+<thead>
+  <tr>
+    <th>회차</th>
+    <th>일시 및 시간</th>
+    <th>활동내용</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>1</td>
+    <td>2021.09.14</td>
+    <td>교재학습 2~4장</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>2021.09.21</td>
+    <td>교재학습 6~8장<br>code up 1920 : 2진수 변환<br>프로그래머스 12921</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>2021.09.28</td>
+    <td>교재학습 18~21장<br>교재 장당 한문제<br>각자 선정 1문제</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>2021.10.05</td>
+    <td>교재학습 22~28장<br>교재 장당 한문제<br>각자 선정 1문제</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>2021.10.12</td>
+    <td>교재학습 29~30장<br>교재 장당 한문제<br>각자 선정 1문제</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>2021.10.26</td>
+    <td>중간 점검<br>교재 29,30장 당 1문제<br>복습 한장당 1문제<br>각자 선정 1문제</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>2021.11.02</td>
+    <td>&lt;2021 카카오 채용연계형 인턴십&gt; 2문제</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>2021.11.09</td>
+    <td>&lt;2018 카카오 블라인드&gt; 2문제</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>2021.11.16</td>
+    <td>&lt;2019 카카오 블라인드&gt; 2문제</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>2021.11.23</td>
+    <td>&lt;2020 카카오 블라인드&gt; 2문제</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>2021.11.26</td>
+    <td>&lt;2021 카카오 블라인드&gt; 2문제</td>
+  </tr>
+</tbody>
+</table>
 
 
 ### Contributor
