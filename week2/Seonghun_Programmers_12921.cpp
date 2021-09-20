@@ -1,20 +1,27 @@
-#include <string>
 #include <vector>
-
+#include <iostream>
 using namespace std;
 
-bool isPrime(int num){
-    for(int i=2; i*i<=num; i++){
-        if(num % i == 0) return false;
+int solution(int n) {
+    int answer = 1;
+    vector<int> result;
+    vector<int>::iterator iter;
+    if(n == 1) return 0;
+    for(int k=3;k<=n;){
+        for (iter = result.begin(); iter != result.end(); ++iter)
+        {
+            if(!(k%*iter)){break;}
+        }
+        if(iter == result.end()){
+            result.push_back(k);
+        }
+        k=k+2;
     }
-    return true;
+    answer += result.size();
+    return answer;
 }
 
 
-int solution(int n) {
-    int answer = 0;
-    for(int k=2;k<=n;k++){
-        if(isPrime(k)){answer++;};
-    }
-    return answer;
+int main(){
+    std::cout << solution(1000000);
 }
