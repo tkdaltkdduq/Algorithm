@@ -20,5 +20,3 @@ int main() {
     changeToBinaryNum(num);
     return 0;
 }
-
-
