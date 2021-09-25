@@ -1,0 +1,21 @@
+#include<stdio.h>
+
+int to_binary(int n);
+int main() {
+	int num;
+	
+	scanf("%d", &num);
+	to_binary(num);
+	printf("\n");
+
+	return 0;
+}
+int to_binary(int n) {
+	if (n == 0 || n == 1)
+		printf("%d", n);
+	else {
+		to_binary(n / 2);
+		printf("%d", n % 2);
+	}
+	return 0;
+}
